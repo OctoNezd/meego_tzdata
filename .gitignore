@@ -1,0 +1,12 @@
+tmp
+*-stamp
+debian/tzdata
+debian/tzdata-calendar
+debian/tzdata-libicu
+debian/tzdata-timed
+debian/*.log
+debian/tzdata.install
+debian/tzdata.substvars
+debian/.debhelper
+debian/source
+debian/files
