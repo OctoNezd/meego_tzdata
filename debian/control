@@ -1,7 +1,7 @@
 Source: tzdata
 Section: misc
 Priority: optional
-Maintainer: Ilya Dogolazky <ilya.dogolazky@nokia.com>
+Maintainer: Yan <me@octonezd.me>
 Build-Depends: debhelper (>= 7),
  python3 (>= 3),
  bash,
